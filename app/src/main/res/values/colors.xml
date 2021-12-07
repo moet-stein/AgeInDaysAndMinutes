@@ -10,7 +10,7 @@
     <color name="colorPrimary">#FF9D1B</color>
     <color name="selectBtnColor">#4F9300</color>
     <color name="textColor">#3F6513</color>
-    <color name="secondTextColor">#B7B7B7</color>
+    <color name="secondTextColor">#888888</color>
     <color name="backgroundColor">#FEF1E0</color>
     <color name="ageTextBackgroundColor">#79531C</color>
 </resources>

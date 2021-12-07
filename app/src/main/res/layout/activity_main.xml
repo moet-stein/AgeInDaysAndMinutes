@@ -62,10 +62,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textColor="@color/textColor"
-        android:textSize="20sp"
+        android:textSize="30sp"
         android:textStyle="bold"
         android:text="00/00/0000"
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="40dp"
         />
 
     <TextView
@@ -88,6 +88,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Age in Days"
+        android:textSize="20dp"
         android:textColor="@color/secondTextColor"/>
 
 
@@ -105,6 +106,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Age in minutes"
+        android:textSize="20dp"
         android:textColor="@color/secondTextColor"/>
 
 </LinearLayout>
